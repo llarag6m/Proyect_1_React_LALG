@@ -1,0 +1,28 @@
+.title{
+   display: grid;
+   grid-template-rows: 0.3fr 1fr 0.1fr;
+   min-height: 100vh;
+   place-items: center;
+   width: min(100%, 450px);
+   padding: 20px , 10px;
+   margin: 0 auto;
+}
+
+h1{
+   font-size: 5vh;
+
+}
+
+
+.text{
+   margin: 10px;
+   border-radius: 40px;
+   font-size: xx-large;
+   background-color: rgba(154, 183, 208, 0.5);
+
+ }
+ 
+button{
+   position:relative;
+   left: 18vh;
+}
