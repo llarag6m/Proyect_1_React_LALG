@@ -6,23 +6,33 @@
    width: min(100%, 450px);
    padding: 20px , 10px;
    margin: 0 auto;
+   font-family: 'DS-Digital', sans-serif;
+                                                
 }
 
 h1{
-   font-size: 5vh;
-
+   font-size: 4vh;
 }
-
 
 .text{
    margin: 10px;
+   padding: 10px;
+   border: 10px transparent ;
    border-radius: 40px;
+   font-family: 'DS-Digital', sans-serif;
    font-size: xx-large;
    background-color: rgba(154, 183, 208, 0.5);
-
+   text-align: center;
+   position: relative;
  }
  
-button{
-   position:relative;
-   left: 18vh;
+
+
+h1, p, footer{
+  color: azure;
+  margin: 50px;
+}
+
+footer{
+   font-size: 2vh;
 }
