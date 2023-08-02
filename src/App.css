@@ -25,14 +25,14 @@ box-sizing: inherit;
 
 .btn{
   border-radius: 100px;
-  border: 1px  transparent;
+  border: 2px  solid black;
   padding: 0.6em 1.2em;
   font-size: 1em;
-  background-color: purple;
+  background-color: rgba(31, 97, 141, 0.7);
   cursor: pointer;
   transition: border-color 0.25s;
-  position: relative;
-  left: 20vh;
+  left: 15vh;
+  margin-left: 160px;
   
 }
 
