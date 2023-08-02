@@ -33,5 +33,18 @@ h1, p, footer{
 }
 
 footer{
-   font-size: 2vh;
+
+   background-color: rgba(154, 183, 208, 0.5);
+	border: 1px solid  gray;
+	margin: 0%;
+	max-height: 140px;
+	border-top-left-radius: 50% 100%;
+	border-top-right-radius: 50% 100%;
+	max-width: 380px;
+}
+
+h4{
+   padding-top: 10vh;
+   padding-left: 1vh;
+   text-align: center;
 }
